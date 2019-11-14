@@ -1,0 +1,36 @@
+body {
+    text-align: center;
+    text-decoration: none;
+}
+.cap {
+    text-transform: uppercase;
+}
+h1 {
+    font-family: Raleway;
+    color: #002C40;
+    letter-spacing: 1px;
+    font-weight: 400;
+    font-size: 45px;
+}
+h2 {
+    font-family: Raleway;
+    color: #F15831;
+    letter-spacing: 1px;
+    font-weight: 600;
+    font-size: 18px;
+}
+h3 {
+    font-family: Raleway;
+    color: #0D2c40;
+    letter-spacing: 1px;
+    font-weight: 600;
+    font-size: 20px;
+}
+p {
+    font-family: "Droid Serif";
+    line-height: 26px;
+    font-size: 18px;
+}
+a {
+    text-decoration: none;
+}
